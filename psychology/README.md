@@ -47,3 +47,12 @@
 Борьба с лишним весом (краткие тезисы)
 Диетология. Обычная статья, ч.1
 Диетология. Обычная статья, ч.2
+def process_docx(filename):
+    with open(os.path.join(path,filename), "rb") as docx_file:
+        result=mammoth.convert_to_html(docx_file)
+        print(filename,result.messages)
+        with open(os.path.join(save_path,filename[:-5]+'.md'), "w", encoding='utf-8') as text_file:
+            text_file.write(result.value)
+ for file in os.listdir(path):
+    if file.endswith(".docx"):
+        process_docx(file)
