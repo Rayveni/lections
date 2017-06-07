@@ -1,4 +1,5 @@
-﻿[**opus minimum**](monkey%20inside.md)
+## opus minimum
+* [**депрессия**](депрессия.md)
  
  
  Opus minimum
