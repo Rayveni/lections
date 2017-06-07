@@ -1,1 +1,1 @@
-﻿# Заготовка
+[opus minimum](opus minimum.md)
