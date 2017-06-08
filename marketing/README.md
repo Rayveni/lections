@@ -1,3 +1,3 @@
 draft
 
-[marketing](Marketing.md)
+[marketing](Маркетинг.md)
