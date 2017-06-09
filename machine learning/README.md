@@ -1,4 +1,19 @@
-# Opus minimum
+# Cheat sheets (ENG)
+
+* [Supervised learning superstitions](cheatsheets/Python-Scikit_Learn_Supervised_Learning.ipynb)
+* Basic libraries:[Pandas](cheatsheets/Python-Pandas.ipynb),[Numpy](cheatsheets/Python-Numpy.ipynb),[Matplotlib](cheatsheets/Python-Matplotlib.ipynb)
+* [Basic Operations example using TensorFlow library](cheatsheets/Python-Tensorflow.ipynb)
+* [Pytorch](cheatsheets/Python-Pytorch.ipynb)
+* Express math basis
+  * [Statistics](cheatsheets/Math-Statistics_mit_csvoss.pdf)
+  * [Calculus](cheatsheets/Math-Calculus.pdf) 
+  * [Linear Algebra](cheatsheets/Math-Linear_Algebra.pdf) 
+ 
+
+
+
+
+# Opus minimum (RU)
 Компилляция с примерами физтеховской специализации.<br>
 Много страшных формул (понимать их неплохо, но не обязательно)
 ## Обучение с учителем
