@@ -4,7 +4,8 @@
 * Basic libraries:[Pandas](cheatsheets/Python-Pandas.ipynb),[Numpy](cheatsheets/Python-Numpy.ipynb),[Matplotlib](cheatsheets/Python-Matplotlib.ipynb)
 * [Basic Operations example using TensorFlow library](cheatsheets/Python-Tensorflow.ipynb)
 * [Pytorch](cheatsheets/Python-Pytorch.ipynb)
-* Express math basis
+* Express math basis  
+  * [Probability](cheatsheets/Math-Probability.pdf)
   * [Statistics](cheatsheets/Math-Statistics_mit_csvoss.pdf)
   * [Calculus](cheatsheets/Math-Calculus.pdf) 
   * [Linear Algebra](cheatsheets/Math-Linear_Algebra.pdf) 
