@@ -1,6 +1,7 @@
 <a href=../README.md><img src="../img/back.jpg" width="50" height="50" /></a>
 
-
+# Методология для DataScientist-ов
+* [CRISP-DM](Методология%20для%20DataScientist-в.md)    
 # Cheat sheets (ENG)
 
 * [Supervised learning superstitions](cheatsheets/Python-Scikit_Learn_Supervised_Learning.ipynb)
