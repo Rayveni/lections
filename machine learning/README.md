@@ -17,8 +17,8 @@
    * [Algorithm Summary2](../img/ ML-Algorithms_Summary.png)  
 
  * Azure ans SAS
-  *[Azure](../img/ ML-MS-Flow_Chart.png)  
-  *[SAS](../img/ ML-SAS-Flow_Chart.png)  
+  * [Azure](../img/ ML-MS-Flow_Chart.png)  
+  * [SAS](../img/ ML-SAS-Flow_Chart.png)  
 
 * Python Basics
   * [Basics](../img/Python-Basics.png)  
