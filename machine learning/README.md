@@ -13,12 +13,12 @@
  * Algorithms
    * [Algorithm Select guide](../img/Python-Scikit_Learn_Flowchart.png)
    * [Algorithm Categories](../img/ML-Algorithms_Categories.jpg)   
-   * [Algorithm Summary1](../img/ ML-Algorithms_Summary.jpg)    
-   * [Algorithm Summary2](../img/ ML-Algorithms_Summary.png)  
+   * [Algorithm Summary1](../img/ML-Algorithms_Summary.jpg)    
+   * [Algorithm Summary2](../img/ML-Algorithms_Summary.png)  
 
  * Azure ans SAS
-  * [Azure](../img/ ML-MS-Flow_Chart.png)  
-  * [SAS](../img/ ML-SAS-Flow_Chart.png)  
+  * [Azure](../img/ML-MS-Flow_Chart.png)  
+  * [SAS](../img/ML-SAS-Flow_Chart.png)  
 
 * Python Basics
   * [Basics](../img/Python-Basics.png)  
