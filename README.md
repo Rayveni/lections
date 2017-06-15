@@ -1,4 +1,5 @@
 * [Machine learning](machine%20learning/README.md)
+  * CRISP-DM 
   * cheat sheets
   * конспекты специализации физтеха
 * [psychology](psychology/README.md)
