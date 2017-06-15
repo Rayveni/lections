@@ -1,7 +1,10 @@
 <a href=../README.md><img src="../img/back.jpg" width="50" height="50" /></a>
 
-# Методология для DataScientist-ов
-* [CRISP-DM](Методология%20для%20DataScientist-в.md)    
+# Методология для DataScientist-ов(RU)
+* [CRISP-DM](Методология%20для%20DataScientist-в.md)   
+
+# Books
+* [XGBoost Scalable Tree Boosting System](XGBoost-Scalable%20Tree%20Boosting%20System.pdf)
 # Cheat sheets (ENG)
 
 * [Supervised learning superstitions](cheatsheets/Python-Scikit_Learn_Supervised_Learning.ipynb)
