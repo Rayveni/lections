@@ -1,3 +1,6 @@
+<a href=../README.md><img src="../img/back.jpg" width="50" height="50" /></a>
+
+
 # Cheat sheets (ENG)
 
 * [Supervised learning superstitions](cheatsheets/Python-Scikit_Learn_Supervised_Learning.ipynb)
@@ -50,3 +53,6 @@
   * [Часть2](samples/Bike%20sharing%20demand%20linear%20model%20%20part2.ipynb)  
   
 * [Решающие деревья и композиции деревьев](Решающие%20деревья%20и%20композиции%20деревьев.ipynb)
+
+
+<a href=../README.md><img src="../img/back.jpg" width="50" height="50" /></a>
