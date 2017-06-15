@@ -6,3 +6,6 @@
 * [marketing](marketing/README.md)
 * [finance](finance/README.md)
   * Учёт и отчётность
+* [Communication(soft skills)](Communications(solf%20skills)/README.md)  
+  
+
