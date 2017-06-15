@@ -1,3 +1,5 @@
+# Лекции,шпаргалки, тренинги,конспекты
+
 * [Machine learning](machine%20learning/README.md)
   * CRISP-DM 
   * cheat sheets
