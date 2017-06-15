@@ -10,6 +10,8 @@
   * [Calculus](cheatsheets/Math-Calculus.pdf) 
   * [Linear Algebra](cheatsheets/Math-Linear_Algebra.pdf) 
  
+ * [Algorithm Select guide](../img/Python-Scikit_Learn_Flowchart.png)
+ 
 
 
 
