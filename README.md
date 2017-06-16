@@ -31,3 +31,9 @@
  * [business analysis](business%20analysis)  
    * UML
    * Разработка Бизнес требований
+   
+ * [books](books)
+   * Diagram_language.pdf	- говорим на языке диаграмм
+   * LaTeX.pdf	- набор и верстка в Tex
+   * Vigers Karl - Разработка требований к программному обеспечению
+   * Statistical Feature Selection - статистический взгяд на отбор признаков
