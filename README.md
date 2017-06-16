@@ -14,5 +14,11 @@
 * [Communication(soft skills)](Communications(solf%20skills)/README.md)  
   * деловая переписка
  * [other](/other)
-  
-
+   * Business English.md	Update Business English.md	2 hours ago
+   * Business Intelligence хранилища данных
+   * SQL_основы
+   * Базовый курс Google Analytics_final
+   * Метология планирования и бюджетирования
+   * Тестирование etl процессов
+   * Тренинг_по_обратной_связи_оценка_2013_весна
+   * биллинг и тарификация.pdf
