@@ -8,7 +8,13 @@
    * Построение выводов по данным
 * [psychology](psychology/README.md)
   * цикл статей о работе мозга,устройстве психики, душевном здоровьи и о том , что с этим можно сделать
-* [marketing](marketing/README.md)
+* [marketing](marketing)
+  * Клиентоориентированность
+  * Маркетинг и психология	
+  * Состовление портрета клиента
+  * Что продавать
+  * Экосистема онлайн
+
 * [finance](finance/README.md)
   * Учёт и отчётность
 * [Communication(soft skills)](Communications(solf%20skills)/README.md)  
@@ -22,3 +28,6 @@
    * Тестирование etl процессов
    * Тренинг_по_обратной_связи_оценка_2013_весна
    * биллинг и тарификация.pdf
+  * [business analysis](business%20analysis)  
+  * UML
+  * Разработка Бизнес требований
