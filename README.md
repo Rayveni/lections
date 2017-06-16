@@ -1,7 +1,7 @@
 # Лекции,шпаргалки, тренинги,конспекты
 
 * [Machine learning](machine%20learning/README.md)
-  * CRISP-DM 
+  * методология CRISP-DM - 6 простых шагов, которые помогут сделать проект по работе с данными успешным
   * cheat sheets
   * конспекты специализации физтеха
  * [Statistics](statistics/README.md)
