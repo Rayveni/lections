@@ -1,5 +1,5 @@
 # Лекции,шпаргалки, тренинги,конспекты
-
+* [trading](trading/README.md)
 * [Machine learning](machine%20learning/README.md)
   * методология CRISP-DM - 6 простых шагов, которые помогут сделать проект по работе с данными успешным
   * cheat sheets
