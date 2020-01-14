@@ -3,8 +3,8 @@ from os import path,mkdir,walk
 #from shutil import copyfile
 
 class gitwrapper:
-    def __init__(self,local_folder,ssh_key):
-        self.ssh_key_location=ssh_key
+    def __init__(self,local_folder):
+        #self.ssh_key_location=ssh_key
         self.local_folder=local_folder
         if path.isdir(local_folder):
             pass
@@ -30,10 +30,11 @@ class gitwrapper:
         except:
             pass
         
-        print(repo.git.status() )  
+        print(repo.git.status() ) 
+        self.push_master()
           
         
-    def push(self):
+    def push_master(self):
         repo = Repo(self.local_folder)
         origin=repo.remote(name='origin')
         origin.push()            
