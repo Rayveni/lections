@@ -39,7 +39,7 @@ class gitwrapper:
         origin=repo.remote(name='origin')
         origin.pull()		
         origin.push()
-        return repo.git.status()         
+     
         
     def FileTreeMaker(self,TreeRoot,skip=[]):  
 
