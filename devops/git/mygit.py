@@ -37,7 +37,9 @@ class gitwrapper:
     def push_master(self):
         repo = Repo(self.local_folder)
         origin=repo.remote(name='origin')
-        origin.push()            
+        origin.pull()		
+        origin.push()
+        return repo.git.status()         
         
     def FileTreeMaker(self,TreeRoot,skip=[]):  
 
