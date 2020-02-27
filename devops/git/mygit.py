@@ -33,11 +33,14 @@ class gitwrapper:
         print(repo.git.status() ) 
         self.push_master()
           
-        
-    def push_master(self):
+    def pull(self):
         repo = Repo(self.local_folder)
         origin=repo.remote(name='origin')
         origin.pull()		
+        return origin
+        
+    def push_master(self):
+        origin=self.pull()		
         origin.push()
      
         
